@@ -1,4 +1,4 @@
-This page is where you can view and download the latest versions of CMEaWoT 3d Game Engine. Currently only the ZIP download is available.
+This page is where you can view and download CMEaWoT 3d Game Engine. A .zip download of the latest version is available in the "current" folder.
 
 # Installation Instructions
 
