@@ -1,6 +1,30 @@
 This page is where you can view and download the latest versions of CMEaWoT 3d Game Engine. Currently only the ZIP download is available.
 
+# Installation Instructions
+
+This program requires [Java](https://www.oracle.com/java/technologies/downloads/) and [Processing](https://processing.org/download). Download the .zip folder and extract it. Then, go into the "cmw_ADH" folder and move the "Launch CMEaWoT" shortcut to your desktop. Use this to launch the demo. You can then put the unzipped folder anywhere on your computer (I'd recommend Program Files).
+
+If the command line window that pops up when you attempt to open the game closes immediately, you may need to add Processing to your environment variables. To do so, follow these steps:
+
+1. Find the Processing folder. If you have a desktop shortcut for Processing, you can right-click that and select "Open File Location".
+2. Click the down-pointing-arrow at the right of the bar at the top.
+3. Press Ctrl+C to copy the highlighted text.
+4. Using the Windows search bar, search and open "Edit the System Environment Variables".
+5. Allow Administrator access if needed.
+6. Click "Environment Variables".
+7. Under "System Variables", scroll until you find "Path". Select it and click "Edit".
+8. In the "Variable Name" box, add a semicolon (;) and paste what you have copied using Ctrl+V.
+9. Click "Ok"
+10. Click "Ok"
+11. Click "Ok"
+12. Try launching the demo again.
+
 # CMEaWoT Patch Notes
+
+## v0.0.1 - The 3d Update, Occlusion Patch
+- Occlusion updated to fix certain issues
+- Added basic model support; models can rotate and move independently from each other
+- Added more buttons to the ADH to control models
 
 ## v0.0 - The 3d Update
 - Added vertices
