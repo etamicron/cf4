@@ -1,4 +1,4 @@
-This page is where you can view and download CMEaWoT 3d Game Engine. A .zip download of the latest version is available in the "current" folder.
+This page is where you can view and download CMEaWoT 3d Game Engine. A .zip download of the latest version is available in the "current" folder. Older versions can be found in the "historical" folder.
 
 # Installation Instructions
 
@@ -20,6 +20,11 @@ If the command line window that pops up when you attempt to open the game closes
 12. Try launching the demo again.
 
 # CMEaWoT Patch Notes
+
+## v0.1 - The 3d Update, SAVE the World
+- Models can now be saved in the new .bxt file format
+- BXT will now be included in all engine packages
+- ADH has been retired in favor of the CCME model editor
 
 ## v0.0.1 - The 3d Update, Occlusion Patch
 - Occlusion updated to fix certain issues
